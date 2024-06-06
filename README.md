@@ -15,4 +15,7 @@ and potential applications, emphasizing the significance of cloudbased
 IoT solutions in advancing personalized and effective home
 healthcare.
 
-!Model's Architecture](architecture.png)
+<div align="center">
+<img src="architecture.png" width="700">
+ <h4>Model's Architecture.</h4>
+</div>
