@@ -15,4 +15,4 @@ and potential applications, emphasizing the significance of cloudbased
 IoT solutions in advancing personalized and effective home
 healthcare.
 
-!Model's Architecture](images/your-image-file.png)
+!Model's Architecture](architecture.png)
