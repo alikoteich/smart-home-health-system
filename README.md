@@ -14,3 +14,5 @@ projecet shows the system architecture, implementation details,
 and potential applications, emphasizing the significance of cloudbased
 IoT solutions in advancing personalized and effective home
 healthcare.
+
+!Model's Architecture](images/your-image-file.png)
